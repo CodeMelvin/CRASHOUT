@@ -1617,13 +1617,7 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: 'CREATED BY:
-
-    CodeMelvin
-
-    
-    
-
-    '
+    CodeMelvin'
 --- !u!222 &626442372
 CanvasRenderer:
   m_ObjectHideFlags: 0
