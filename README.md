@@ -4,7 +4,7 @@
 
 ## 🎮 Gameplay
 
-https://github.com/CodeMelvin/CRASHOUT/releases/download/v1.0/CRASHOUT-gameplay.mp4
+<video src="docs/CRASHOUT-gameplay.mp4" controls></video>
 
 *Built with Unity 2022.3 LTS + XR Interaction Toolkit*
 
