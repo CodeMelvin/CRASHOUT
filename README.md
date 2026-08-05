@@ -6,6 +6,8 @@
 
 https://github.com/user-attachments/assets/8526b6b7-15f8-486b-ba41-a71258b77442
 
+> 🎬 **Backup video:** [`Video/Gameplay.mp4`](Video/Gameplay.mp4) — jika player di atas tidak muncul, buka video langsung di folder repo.
+
 *Built with Unity 2022.3 LTS + XR Interaction Toolkit*
 
 ---
