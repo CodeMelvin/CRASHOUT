@@ -4,9 +4,9 @@
 
 ## 🎮 Gameplay
 
-https://github.com/user-attachments/assets/8526b6b7-15f8-486b-ba41-a71258b77442
+https://github.com/user-attachments/assets/ce795be9-7f13-4cf0-9836-17861b41869e
 
-> 🎬 **Backup video:** [`Video/Gameplay.mp4`](Video/Gameplay.mp4) — jika player di atas tidak muncul, buka video langsung di folder repo.
+> 🎬 **Full video:** [`Video/Gameplay.mp4`](Video/Gameplay.mp4) — watch the complete gameplay video directly in the repository.
 
 *Built with Unity 2022.3 LTS + XR Interaction Toolkit*
 
@@ -66,7 +66,8 @@ CRASHOUT/
 │   └── XRI/                 — XR Interaction Toolkit settings
 ├── Build/                   — Windows build
 ├── Packages/                — Unity package manifest
-└── ProjectSettings/         — Unity project settings
+├── ProjectSettings/         — Unity project settings
+└── Video/                   — Gameplay demo video
 ```
 
 ---
