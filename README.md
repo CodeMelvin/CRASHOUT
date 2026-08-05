@@ -4,7 +4,7 @@
 
 ## 🎮 Gameplay
 
-https://github.com/user-attachments/assets/933b44f3-d169-4288-b28f-949e554ae10d
+https://github.com/user-attachments/assets/8526b6b7-15f8-486b-ba41-a71258b77442
 
 *Built with Unity 2022.3 LTS + XR Interaction Toolkit*
 
