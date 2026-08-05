@@ -4,7 +4,7 @@
 
 ## 🎮 Gameplay
 
-<video src="https://raw.githubusercontent.com/CodeMelvin/CRASHOUT/main/docs/CRASHOUT-gameplay.mp4" controls muted preload="metadata"></video>
+![Gameplay Demo](docs/CRASHOUT-gameplay.mp4)
 
 *Built with Unity 2022.3 LTS + XR Interaction Toolkit*
 
