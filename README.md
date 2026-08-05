@@ -2,11 +2,11 @@
 
 > A VR destruction game where you use a bazooka to demolish buildings, score points, and race against the clock.
 
-## 🎮 Gameplay
+## 🎮 CRASHOUT Gameplay
 
 https://github.com/user-attachments/assets/ce795be9-7f13-4cf0-9836-17861b41869e
 
-> 🎬 **Full video:** [`Video/Gameplay.mp4`](Video/Gameplay.mp4) — watch the complete gameplay video directly in the repository.
+> 🎬 **Direct link:** [`Video/Gameplay.mp4`](Video/Gameplay.mp4) — if the player above does not load, open the video directly in the repository.
 
 *Built with Unity 2022.3 LTS + XR Interaction Toolkit*
 
@@ -68,6 +68,7 @@ CRASHOUT/
 ├── Packages/                — Unity package manifest
 ├── ProjectSettings/         — Unity project settings
 └── Video/                   — Gameplay demo video
+    └── Gameplay.mp4         — Gameplay demo video
 ```
 
 ---
