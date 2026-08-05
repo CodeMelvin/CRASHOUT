@@ -4,7 +4,7 @@
 
 ## 🎮 Gameplay
 
-🎬 **[Watch the gameplay demo](docs/CRASHOUT-gameplay.mp4)**
+![Gameplay Demo](docs/CRASHOUT-gameplay.mp4)
 
 *Built with Unity 2022.3 LTS + XR Interaction Toolkit*
 
