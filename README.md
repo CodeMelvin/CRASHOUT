@@ -4,7 +4,7 @@
 
 ## 🎮 CRASHOUT Gameplay
 
-https://github.com/user-attachments/assets/ce795be9-7f13-4cf0-9836-17861b41869e
+https://github.com/user-attachments/assets/9456950c-9d1b-4f60-9b12-8676f7188a86
 
 > 🎬 **Direct link:** [`Video/Gameplay.mp4`](Video/Gameplay.mp4) — if the player above does not load, open the video directly in the repository.
 
@@ -67,8 +67,8 @@ CRASHOUT/
 ├── Build/                   — Windows build
 ├── Packages/                — Unity package manifest
 ├── ProjectSettings/         — Unity project settings
-└── Video/                   — Gameplay demo video
-    └── Gameplay.mp4         — Gameplay demo video
+└── Video/
+    └── Gameplay.mp4            # Gameplay demo video
 ```
 
 ---
