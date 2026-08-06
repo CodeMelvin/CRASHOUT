@@ -95,7 +95,7 @@ CRASHOUT/
 
 ---
 
-## 📄 License
+## 📝 License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
@@ -103,4 +103,4 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## 👤 Author
 
-**CodeMelvin** — [GitHub](https://github.com/CodeMelvin)
+**Melvin** ([@CodeMelvin](https://github.com/CodeMelvin))
